@@ -1,80 +1,100 @@
-<header>
+<h1 align="center">Hi, I'm Fida Ur Rahman 👋</h1>
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
+<p align="center">
+  <b>AI Engineer</b> · Deep Learning · Computer Vision · Graph Neural Networks
+  <br>
+  Software Engineering graduate building research-driven, real-world AI systems.
+  <br>
+  📍 Islamabad, Pakistan
+</p>
 
-# Introduction to GitHub
-
-_Get started using GitHub in less than an hour._
-
-</header>
-
-<!--
-  <<< Author notes: Course start >>>
-  Include start button, a note about Actions minutes,
-  and tell the learner why they should take the course.
--->
-
-## Welcome
-
-People use GitHub to build some of the most advanced technologies in the world. Whether you’re visualizing data or building a new game, there’s a whole community and set of tools on GitHub that can help you do it even better. GitHub Skills’ “Introduction to GitHub” course guides you through everything you need to start contributing in less than an hour.
-
-- **Who is this for**: New developers, new GitHub users, and students.
-- **What you'll learn**: We'll introduce repositories, branches, commits, and pull requests.
-- **What you'll build**: We'll make a short Markdown file you can use as your [profile README](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme).
-- **Prerequisites**: None. This course is a great introduction for your first day on GitHub.
-- **How long**: This course takes less than one hour to complete.
-
-In this course, you will:
-
-1. Create a branch
-2. Commit a file
-3. Open a pull request
-4. Merge your pull request
-
-### How to start this course
-
-1. Scroll to the top of the page and click the down arrow next to the Fork button. Then click 'Create a new fork' to fork this repository.
-
-2. Right-click **Start course** and open the link in a new tab.
-   
-<!-- For start course, run in JavaScript:
-'https://github.com/new?' + new URLSearchParams({
-  template_owner: 'skills',
-  template_name: 'introduction-to-github',
-  owner: '@me',
-  name: 'skills-introduction-to-github',
-  description: 'My clone repository',
-  visibility: 'public',
-}).toString()
--->
-
-[![start-course](https://user-images.githubusercontent.com/1221423/235727646-4a590299-ffe5-480d-8cd5-8194ea184546.svg)](https://github.com/new?template_owner=skills&template_name=introduction-to-github&owner=%40me&name=skills-introduction-to-github&description=My+clone+repository&visibility=public)
-
-
-
-3. In the new tab, most of the prompts will automatically fill in for you.
-   - For owner, choose your personal account or an organization to host the repository.
-   - We recommend creating a public repository, as private repositories will [use Actions minutes](https://docs.github.com/en/billing/managing-billing-for-github-actions/about-billing-for-github-actions).
-   - Scroll down and click the **Create repository** button at the bottom of the form.
-
-4. After your new repository is created, wait about 20 seconds, then refresh the page. Follow the step-by-step instructions in the new repository's README.
-
-<footer>
-
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
+<p align="center">
+  <a href="https://fidaurrahman.me/"><img src="https://img.shields.io/badge/Portfolio-fidaurrahman.me-2ea44f?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/fidarh24"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:fidaurrahman700@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
 ---
 
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/introduction-to-github) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
+## 🧠 About Me
 
-&copy; 2024 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+I'm a **Software Engineering graduate** with a strong focus on artificial intelligence, deep learning, and computer vision. My work spans research-oriented AI and practical software development, with an emphasis on building robust solutions that hold up in the real world.
 
-</footer>
+- 🔬 Research in **Deep Learning, Computer Vision, and Graph Neural Networks**
+- 🎓 Published at **ICRIRET 2026** (Konya, Turkey) on multi-modal AI for fraud detection
+- 🛠️ Comfortable across the stack: neural network design, training, and deployment
+- 🤝 Open to **research collaborations, AI engineering roles, and technical discussions**
+
+---
+
+## 🧰 Tech Stack
+
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+
+**AI / ML**  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+
+**Focus Areas**  
+`CNNs` · `Transformers` · `Graph Neural Networks` · `Object Detection` · `Image Segmentation` · `NLP` · `Generative Models`
+
+**Tools & Platforms**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech |
+| :--- | :--- | :--- |
+| **[CardioRiskAI](https://github.com/fidaarahman/CardioRiskAI)** | Heart disease risk prediction from medical data using deep learning. | Deep Learning |
+| **[PalmLine Detection](https://github.com/fidaarahman/PalmLine-Detection-Model)** | Computer vision system that detects palm lines with YOLOv8. | YOLOv8 · CV |
+| **[Sketch2Real](https://github.com/fidaarahman/Sketch2Real)** | Translates hand-drawn sketches into realistic images. | GANs · CV |
+| **Multi-Modal Fraud Detection** | Transformer + GNN framework — **99.2% recall**, **0.996 AUC** — with privacy-preserving components. | Transformers · GNN |
+
+---
+
+## 📄 Research & Publications
+
+**An Integrated Multi-Modal AI Framework for Credit Card Fraud Detection**  
+*Asim Zubair, **Fida Ur Rahman**, Dr. Sabeen Masood*  
+📍 ICRIRET 2026 — International Conference on Recent and Innovative Results in Engineering and Technology, Konya, Turkey
+
+> Combines Transformer architectures with Graph Neural Networks to capture both sequential transaction patterns and relational structure. Includes interpretable feature fusion and privacy-preserving AI, achieving **99.2% recall** and an **AUC of 0.996** on benchmark financial datasets.
+
+---
+
+## 🎓 Education & Certifications
+
+**B.Sc. Software Engineering** — Capital University of Science and Technology (CUST), Islamabad
+
+**Certifications**
+- 🧩 IBM — Machine Learning Professional Certificate
+- ✨ IBM — Generative AI Fundamentals (LLMs, Prompt Engineering)
+- 🤖 Coursera — AI & ML Specialization (Deep Learning, Neural Networks)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=fidaarahman&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fidaarahman&layout=compact&theme=default&hide_border=true" alt="Top Languages">
+</p>
+
+---
+
+## 📫 Get in Touch
+
+- 🌐 Portfolio: **[fidaurrahman.me](https://fidaurrahman.me/)**
+- 💼 LinkedIn: **[in/fidarh24](https://www.linkedin.com/in/fidarh24)**
+- 📧 Email: **fidaurrahman700@gmail.com**
+
+<p align="center"><i>Open to research collaborations and AI engineering opportunities.</i></p>
