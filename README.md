@@ -108,8 +108,13 @@ I'm a **Software Engineering graduate** who builds reliable mobile products and 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=fidaarahman&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fidaarahman&layout=compact&theme=default&hide_border=true" alt="Top Languages">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=fidaarahman&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight" alt="Fida's GitHub stats">
+  &nbsp;
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fidaarahman&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Top languages">
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=fidaarahman&hide_border=true&theme=tokyonight" alt="GitHub streak">
 </p>
 
 ---
