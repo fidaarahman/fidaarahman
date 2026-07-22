@@ -105,14 +105,6 @@ I'm a **Software Engineering graduate** who builds reliable mobile products and 
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=fidaarahman&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight" alt="Fida's GitHub stats">
-</p>
-
----
-
 ## 🗣️ Languages
 
 **Programming Languages**  
