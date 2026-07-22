@@ -109,13 +109,26 @@ I'm a **Software Engineering graduate** who builds reliable mobile products and 
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=fidaarahman&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight" alt="Fida's GitHub stats">
-  &nbsp;
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fidaarahman&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Top languages">
 </p>
 
-<p align="center">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=fidaarahman&hide_border=true&theme=tokyonight" alt="GitHub streak">
-</p>
+---
+
+## 🗣️ Languages
+
+**Programming Languages**  
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![XML](https://img.shields.io/badge/XML-005FAD?style=flat&logo=xml&logoColor=white)
+
+**Spoken Languages**
+
+| Language | Proficiency |
+| :--- | :--- |
+| 🌐 Pashto | Native |
+| 🌐 Urdu | Fluent |
+| 🌐 English | Fluent (Professional) |
 
 ---
 
