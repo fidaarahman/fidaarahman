@@ -20,7 +20,7 @@
 
 I'm a **Software Engineering graduate** who builds reliable mobile products and the AI features that live inside them. My work connects **Android engineering**, **Firebase-backed app flows**, and **machine learning** that runs in real user experiences.
 
-- 📱 Worked across **20+ Android apps** — several shipped to the Play Store
+- 📱 Worked across **20+ Android apps** — Most of them are shipped to the Play Store
 - 🤖 Train &amp; deploy AI with **TensorFlow Lite, YOLOv8, MediaPipe** for on-device inference
 - 🔬 Co-authored research on a **multi-modal fraud-detection framework** (Transformers + GNN)
 - 🤝 Open to **Android Developer** and **AI Engineer** roles
