@@ -1,133 +1,186 @@
-<h1 align="center">Hi, I'm Fida Ur Rahman 👋</h1>
+<h1 align="center">Fida Ur Rahman</h1>
 
 <p align="center">
-  <b>Android Software Engineer</b> &nbsp;+&nbsp; <b>AI Engineer</b>
-  <br>
-  Production Android apps in Kotlin &amp; Java — with practical AI systems built right in.
-  <br>
-  📍 Islamabad, Pakistan · Open to on-site &amp; hybrid roles
+  <b>Android Software Engineer</b> &nbsp;·&nbsp; <b>AI Engineer</b>
 </p>
 
 <p align="center">
-  <a href="https://fidaurrahman.dev/"><img src="https://img.shields.io/badge/Portfolio-fidaurrahman.dev-2ea44f?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"></a>
+  Production Android apps in Kotlin — with NestJS backends behind them<br>and on-device AI running inside them.
+</p>
+
+<p align="center">
+  <a href="https://fidaurrahman.dev/"><img src="https://img.shields.io/badge/Portfolio-fidaurrahman.dev-2EA44F?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Engineering portfolio"></a>
+  <a href="https://fidaurrahman.me/"><img src="https://img.shields.io/badge/Research-fidaurrahman.me-6E40C9?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Research site"></a>
   <a href="https://www.linkedin.com/in/fidarh24"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:fidaurrahman700@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
----
-
-## 🧠 About Me
-
-I'm a **Software Engineering graduate** who builds reliable mobile products and the AI features that live inside them. My work connects **Android engineering**, **Firebase-backed app flows**, and **machine learning** that runs in real user experiences.
-
-- 📱 Worked across **20+ Android apps** — Most of them are shipped to the Play Store
-- 🤖 Train &amp; deploy AI with **TensorFlow Lite, YOLOv8, MediaPipe** for on-device inference
-- 🔬 Co-authored research on a **multi-modal fraud-detection framework** (Transformers + GNN)
-- 🤝 Open to **Android Developer** and **AI Engineer** roles
+<p align="center">
+  <img src="https://img.shields.io/badge/Android-2%2B_years-3DDC84?style=flat-square&logo=android&logoColor=white" alt="2+ years Android">
+  <img src="https://img.shields.io/badge/Apps_shipped-20%2B-0A66C2?style=flat-square" alt="20+ apps shipped">
+  <img src="https://img.shields.io/badge/Published-ICRIRET_2026-FF6F00?style=flat-square" alt="Published at ICRIRET 2026">
+  <img src="https://img.shields.io/badge/Based_in-Islamabad,_PK-555?style=flat-square&logo=googlemaps&logoColor=white" alt="Islamabad, Pakistan">
+</p>
 
 ---
 
-## 💼 Experience
+## About
 
-| When | Role | Company |
+I'm a Software Engineering graduate with **2+ years of professional Android development**. I've shipped **20+ apps** across product and utility categories, built and deployed **NestJS backends on AWS**, and trained applied-AI models that run on-device — computer vision, healthcare prediction, and generative modelling.
+
+Most AI engineers can't ship a Play Store release. Most Android developers can't train a model. I do both, in the same product.
+
+- 📱 Production Android in **Kotlin & Java** — Firebase, MVVM, REST, Play Store releases
+- 🔌 Backend ownership — **NestJS + PostgreSQL** APIs, token auth, Swagger, deployed on **AWS EC2**
+- 🤖 On-device inference with **TensorFlow Lite, YOLOv8, MediaPipe**
+- 🔬 Co-authored published research — **Transformer + GNN** fraud detection, 99.2% recall
+- 🤝 Open to **Android Developer** and **AI Engineer** roles — on-site & hybrid, Islamabad
+
+---
+
+## Experience
+
+| Period | Role | Company |
 | :--- | :--- | :--- |
-| **Jul 2026 – Present** | Android Software Engineer | AppVexa Tech · Islamabad |
+| **Jul 2026 – Present** | **Android Software Engineer** | AppVexa Tech · Islamabad |
 | May 2026 – Jul 2026 | Android Developer | Funprime Technology · Islamabad |
-| Feb 2026 – Apr 2026 | Android Developer | FM Studios · Islamabad |
-| Jun 2024 – Jul 2025 | Android Developer / Jr. AI Developer | Play It Again Tech · Islamabad |
+| Sep 2025 – Jan 2026 | Software Engineer | FM Studios · Islamabad *(Remote)* |
+| Jun 2024 – Jul 2025 | Software Engineer | PlayItAgain Tech · Islamabad |
+
+<details>
+<summary><b>What I actually did</b></summary>
+
+<br>
+
+**AppVexa Tech** — Building and shipping production Android features in Kotlin with Firebase integrations, focused on reliable releases and iterative product improvements.
+
+**Funprime Technology** — Developed and maintained Kotlin Android applications; implemented and optimised Google AdMob integration across the app portfolio.
+
+**FM Studios** — Built Kotlin and Java utility apps, implemented Firebase-driven dynamic content, and improved UI/UX and performance.
+
+**PlayItAgain Tech** — Built interactive Android app features and UI/UX, and trained computer-vision models including YOLOv8 palm-line detection with TensorFlow Lite deployment.
+
+</details>
 
 ---
 
-## 🧰 Tech Stack
+## Selected Work
 
-**Mobile Engineering**  
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
-![Android](https://img.shields.io/badge/Android_SDK-3DDC84?style=flat&logo=android&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)  
-`MVVM` · `REST APIs` · `Firestore` · `XML`
+### 📱 Android — shipped to the Play Store
 
-**AI / Computer Vision**  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![TF Lite](https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
-`YOLOv8` · `MediaPipe` · `U-Net` · `CycleGAN` · `Transformers` · `GNN`
-
-**Tools**  
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
-
----
-
-## 🚀 Projects
-
-### 📱 Android
-
-| Project | Description | Tech |
+| Project | What it does | Stack |
 | :--- | :--- | :--- |
-| **Tour &amp; Travel App** | Booking product with admin, hotel-manager &amp; transport panels, real-time status, and notifications. | Kotlin · Firebase |
-| **Smart Printer** *(Play Store)* | Wi-Fi printer discovery &amp; file printing, with OCR to extract editable text from images. | Android · OCR |
-| **Smart PDF Reader** *(Play Store)* | PDF reader with smooth rendering, search, bookmarking, and quick navigation. | Kotlin · UI/UX |
+| **Tour & Travel Booking App** | Booking platform with separate dashboards for admins, hotel managers, and transport providers — bookings, live status, history, and notifications. | `Kotlin` `Firebase` `Role-based access` |
+| **Smart Printer** | Discovers Wi-Fi printers on the local network and prints documents and photos. Includes OCR to pull editable text out of scanned images. | `Kotlin` `OCR` `Wi-Fi printing` |
+| **Smart PDF Reader** | PDF reader built for fast rendering and everyday file handling — full-text search, bookmarks, folder management, quick navigation. | `Kotlin` `PDF rendering` `File management` |
+
+### 🔌 Full-Stack
+
+| Project | What it does | Stack |
+| :--- | :--- | :--- |
+| **Zoota** | Contract work on both sides of the product: a NestJS REST API with PostgreSQL and token-based auth, documented in Swagger and consumed by a Kotlin client. Deployed on AWS EC2. | `NestJS` `PostgreSQL` `Kotlin` `AWS EC2` |
 
 ### 🤖 AI / Machine Learning
 
-| Project | Description | Tech |
+| Project | What it does | Stack |
 | :--- | :--- | :--- |
-| **[AI Palm Reader](https://github.com/fidaarahman/PalmLine-Detection-Model)** | Real-time palm-line detection optimized for mobile inference. | YOLOv8 · MediaPipe · TFLite |
-| **[Sketch-to-Image](https://github.com/fidaarahman/Sketch2Real)** | GAN translating hand-drawn sketches into realistic images. | GANs · TensorFlow · Flask |
-| **[Heart Disease Risk](https://github.com/fidaarahman/CardioRiskAI)** | Neural network for cardiovascular risk, running on-device via TFLite. | Keras · Health AI |
-| **Multi-Modal Fraud Detection** | Transformer + GNN framework — **99.2% recall**, **0.996 AUC** — with interpretable feature fusion. | Transformers · GNN |
+| **[Palm Line Detection](https://github.com/fidaarahman/PalmLine-Detection-Model)** | Detects and labels the major palm lines from a live camera feed. YOLOv8 trained on a labelled hand-image dataset, exported to TFLite for on-device inference. | `YOLOv8` `MediaPipe` `TFLite` |
+| **[Sketch to Image](https://github.com/fidaarahman/Sketch2Real)** | Converts a hand-drawn face sketch into a photorealistic image using a U-Net in TensorFlow, with a small Flask app for testing and demos. | `U-Net` `TensorFlow` `Flask` |
+| **[Cardiovascular Risk Model](https://github.com/fidaarahman/CardioRiskAI)** | Estimates cardiovascular risk from routine clinical inputs. Trained in Keras on the UCI heart dataset, converted to TFLite to run inside an Android app. | `Keras` `Healthcare` `TFLite` |
+| **Multi-Modal Fraud Detection** | Transformer + graph neural network framework for credit-card fraud, benchmarked against baselines on recall and AUC. **99.2% recall · 0.996 AUC** | `Transformers` `GNN` `Privacy-preserving AI` |
 
 ---
 
-## 📄 Research
+## Tech Stack
+
+**Mobile Engineering**  
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Android](https://img.shields.io/badge/Android_SDK-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)  
+`MVVM` · `Firestore` · `REST APIs` · `XML` · `Material Design` · `AdMob`
+
+**Backend & APIs**  
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)  
+`REST API design` · `Authentication & authorization` · `OpenAPI`
+
+**AI / Computer Vision**  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![TFLite](https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)  
+`YOLOv8` · `MediaPipe` · `U-Net` · `CycleGAN` · `Transformers` · `Graph Neural Networks`
+
+**Tools & Deployment**  
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
+
+---
+
+## Research
 
 **An Integrated Multi-Modal AI Framework for Credit Card Fraud Detection**  
-*Asim Zubair, **Fida Ur Rahman**, Dr. Sabeen Masood* — ICRIRET 2026, Konya, Turkey
+Asim Zubair, **Fida Ur Rahman**, Dr. Sabeen Masood — *ICRIRET 2026, Konya, Turkey*
 
-> Combines Transformer architectures with Graph Neural Networks to capture sequential transaction patterns and relational structure, with privacy-preserving components — achieving **99.2% recall** and an **AUC of 0.996** on benchmark financial datasets.
+Combines Transformer architectures with Graph Neural Networks to capture both sequential transaction patterns and the relational structure between accounts, with privacy-preserving components and interpretable feature fusion.
 
----
+<p>
+  <img src="https://img.shields.io/badge/Recall-99.2%25-success?style=flat-square" alt="99.2% recall">
+  <img src="https://img.shields.io/badge/AUC-0.996-success?style=flat-square" alt="0.996 AUC">
+</p>
 
-## 🎓 Education &amp; Certifications
-
-**B.Sc. Software Engineering** — Capital University of Science and Technology (CUST), Islamabad
-
-- 🧩 IBM — Machine Learning Professional Certificate
-- ✨ IBM — Generative AI Fundamentals
-- 🤖 Coursera — AI &amp; ML Specialization
+→ More at **[fidaurrahman.me](https://fidaurrahman.me/publications/)**
 
 ---
 
-## 🗣️ Languages
+## Education & Certifications
 
-**Programming Languages**  
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![XML](https://img.shields.io/badge/XML-005FAD?style=flat&logo=xml&logoColor=white)
+**B.Sc. Software Engineering** — Capital University of Science and Technology (CUST), Islamabad · CGPA **3.19 / 4.0**  
+Final-year project became the ICRIRET 2026 fraud-detection paper above.
 
-**Spoken Languages**
+| Certification | Issuer | Focus |
+| :--- | :--- | :--- |
+| Machine Learning Professional Certificate | IBM | Supervised/unsupervised learning, model deployment |
+| Generative AI Fundamentals | IBM | LLMs, prompt engineering, generative models |
+| AI & ML Specialization | Coursera | Deep learning, neural networks |
+
+---
+
+## GitHub
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=fidaarahman&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fidaarahman&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top languages">
+</p>
+
+---
+
+## Languages
 
 | Language | Proficiency |
 | :--- | :--- |
-| 🌐 Pashto | Native |
-| 🌐 Urdu | Fluent |
-| 🌐 English | Fluent (Professional) |
+| Pashto | Native |
+| Urdu | Fluent |
+| English | Fluent (Professional) |
 
 ---
 
-## 📫 Get in Touch
+## Get in Touch
 
-- 🌐 Portfolio: **[fidaurrahman.dev](https://fidaurrahman.dev/)**
-- 💼 LinkedIn: **[in/fidarh24](https://www.linkedin.com/in/fidarh24)**
-- 📧 Email: **fidaurrahman700@gmail.com**
+- 🌐 **Engineering portfolio** — [fidaurrahman.dev](https://fidaurrahman.dev/)
+- 🔬 **Research & publications** — [fidaurrahman.me](https://fidaurrahman.me/)
+- 💼 **LinkedIn** — [in/fidarh24](https://www.linkedin.com/in/fidarh24)
+- 📧 **Email** — fidaurrahman700@gmail.com
 
-<p align="center"><i>Need an Android developer who can also think like an AI engineer? Let's talk.</i></p>
+<p align="center">
+  <i>Need an Android developer who can also think like an AI engineer? Let's talk.</i>
+</p>
