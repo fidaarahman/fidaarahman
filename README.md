@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <a href="https://fidaurrahman.dev/"><img src="https://img.shields.io/badge/Portfolio-fidaurrahman.dev-2EA44F?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Engineering portfolio"></a>
-  <a href="https://fidaurrahman.me/"><img src="https://img.shields.io/badge/Research-fidaurrahman.me-6E40C9?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Research site"></a>
+  <a href="https://fidaurrahman.dev/"><img src="https://img.shields.io/badge/Portfolio-2EA44F?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Engineering portfolio"></a>
+  <a href="https://fidaurrahman.me/"><img src="https://img.shields.io/badge/Research-6E40C9?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Research site"></a>
   <a href="https://www.linkedin.com/in/fidarh24"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:fidaurrahman700@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
