@@ -144,7 +144,7 @@ Combines Transformer architectures with Graph Neural Networks to capture both se
 
 ## Education & Certifications
 
-**B.Sc. Software Engineering** — Capital University of Science and Technology (CUST), Islamabad · CGPA **3.19 / 4.0**  
+**B.S. Software Engineering** — Capital University of Science and Technology (CUST), Islamabad · CGPA **3.19 / 4.0**  
 Final-year project became the ICRIRET 2026 fraud-detection paper above.
 
 | Certification | Issuer | Focus |
